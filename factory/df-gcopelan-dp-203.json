@@ -1,0 +1,9 @@
+{
+	"name": "df-gcopelan-dp-203",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80725eed-6a0b-4161-b493-5198ce1d1aa0",
+		"tenantId": "18f47877-26a4-4f8b-b65f-4a8fea6af2c7"
+	}
+}
